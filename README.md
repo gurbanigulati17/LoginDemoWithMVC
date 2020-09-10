@@ -32,8 +32,7 @@ Follow the **"fork-and-pull"** Git workflow.
 
 2. **Clone** the project to your own machine
 
-
-  3.**Commit** changes to your own branch
+3.**Commit** changes to your own branch
 
 
 4. **Merge** with current development branch
