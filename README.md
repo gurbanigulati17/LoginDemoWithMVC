@@ -18,6 +18,7 @@ Creating three view in Account class
 - For successful Login Create view **Create.cshtml**
 - For wrong inputs Login Create View **Error.cshtml**
 
+**4.** Snapshot Folder contains screenshot of how this application looks like.
 
 **NOTE** For Cloning the same github project you have to change the *connectionString* for the same. For that you have to make your own server connection with windows Authentication. Making a database and linking the same.
 
