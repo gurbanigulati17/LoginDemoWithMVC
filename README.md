@@ -16,7 +16,28 @@ Making a function when user clicks on the Action button Login
 Creating three view in Account class
 - For main Login page view- **Login.cshtml**
 - For successful Login Create view **Create.cshtml**
-- For wrong inputs Login Create View **Errorr.cshtml**
+- For wrong inputs Login Create View **Error.cshtml**
 
 
 **NOTE** For Cloning the same github project you have to change the *connectionString* for the same. For that you have to make your own server connection with windows Authentication. Making a database and linking the same.
+
+
+
+
+Follow the **"fork-and-pull"** Git workflow.
+
+
+1. **Fork** the repo on GitHub
+
+
+2. **Clone** the project to your own machine
+
+
+3.**Commit** changes to your own branch
+
+
+4. **Merge** with current development branch
+
+5. **Push** your work back up to your fork
+
+6. **Submit** a Pull request your changes can be reviewed (please refere the issue if reported)
